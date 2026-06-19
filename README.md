@@ -36,6 +36,11 @@ By alternating regular and shifted windows, HiRo supports both local spatial mod
 - A lightweight two-layer MLP head produces class logits.
 
 
+## Windowed Hierarchical Reservoir Block
+
+![Windowed Hierarchical Reservoir Block](reservoir_hierarchy.png)
+
+
 ## Benchmark Results
 
 | Dataset | Accuracy | Precision | Recall | F1 |
@@ -55,4 +60,4 @@ By alternating regular and shifted windows, HiRo supports both local spatial mod
 | **CIFAR-10** | **0.887M** | **39.40s** | **3.53s** | **1120.7 MB** | **224.2 MB** |
 | **CIFAR-100** | **0.898M** | **40.84s** | **3.54s** | **1118.8 MB** | **223.7 MB** |
 
-
+*Tested on Google Colab's NVIDIA Tesla T4*
