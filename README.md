@@ -16,6 +16,8 @@ By alternating regular and shifted windows, HiRo supports both local spatial mod
 
 ## Architecture
 
+![HiRo Overview](img/hiro_overview.png)
+
 **Architecture Summary**:
 
 - Input image is divided into non-overlapping patches.
@@ -38,7 +40,7 @@ By alternating regular and shifted windows, HiRo supports both local spatial mod
 
 ## Windowed Hierarchical Reservoir Block
 
-![Windowed Hierarchical Reservoir Block](reservoir_hierarchy.png)
+![Reservoir Hierarchy](img/reservoir_hierarchy.png)
 
 
 ## Benchmark Results
