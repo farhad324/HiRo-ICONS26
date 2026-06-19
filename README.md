@@ -44,7 +44,7 @@ By alternating regular and shifted windows, HiRo supports both local spatial mod
 | **CIFAR-10** | **85.57** | **85.60** | **85.57** | **85.58** |
 | **CIFAR-100** | **59.10** | **59.34** | **59.10** | **59.03** |
 
-> 🧪 HiRo achieves competitive accuracy while using fewer than 1M trainable parameters, outperforming ViT and Swin on CIFAR-10 and CIFAR-100 in the reported experiments.
+> HiRo achieves competitive accuracy while using fewer than 1M trainable parameters, outperforming ViT and Swin on CIFAR-10 and CIFAR-100 in the reported experiments.
 
 
 ## Efficiency
