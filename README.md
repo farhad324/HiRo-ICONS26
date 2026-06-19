@@ -1,10 +1,10 @@
 # \[🧠ICONS 2026\] HiRo: A Compact Four-Directional Hierarchical Reservoir Token-Mixer for Efficient Image Classification
 
 
-> *HiRo: A Compact Four-Directional Hierarchical Reservoir Token-Mixer for Efficient Image Classification*  
-> Accepted at **ACM International Conference on Neuromorphic Systems (ICONS) 2026** 
-> **arXiv Preprint:** [arXiv:2606.15151](https://arxiv.org/abs/2606.15151) <br />
-> **Authors:** Md Farhadul Islam, Ishan Thakkar & J. Todd Hastings
+- *HiRo: A Compact Four-Directional Hierarchical Reservoir Token-Mixer for Efficient Image Classification*  
+- Accepted at **ACM International Conference on Neuromorphic Systems (ICONS) 2026** 
+- **arXiv Preprint:** [arXiv:2606.15151](https://arxiv.org/abs/2606.15151) <br />
+- **Authors:** Md Farhadul Islam, Ishan Thakkar & J. Todd Hastings
 
 
 ## Overview
