@@ -16,7 +16,7 @@ By alternating regular and shifted windows, HiRo supports both local spatial mod
 
 ## Architecture
 
-![HiRo Overview](img/hiro_overview.png)
+![HiRo Overview](img/model_overview.png)
 
 **Architecture Summary**:
 
